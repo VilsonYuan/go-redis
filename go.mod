@@ -1,4 +1,4 @@
-module github.com/go-redis/redis
+module github.com/VilsonYuan/go-redis
 
 go 1.13
 

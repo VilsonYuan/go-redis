@@ -7,9 +7,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/go-redis/redis/internal"
-	"github.com/go-redis/redis/internal/pool"
-	"github.com/go-redis/redis/internal/proto"
+	"github.com/VilsonYuan/go-redis/internal"
+	"github.com/VilsonYuan/go-redis/internal/pool"
+	"github.com/VilsonYuan/go-redis/internal/proto"
 )
 
 var errPingTimeout = errors.New("redis: ping timeout")
